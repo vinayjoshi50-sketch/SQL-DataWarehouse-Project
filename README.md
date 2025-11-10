@@ -54,5 +54,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 🌟 About Me
 
-Hi there! I'm **Vinay Joshi. I’m a Data Analyst with the working knowledge of SSMS,Mysql,Python and Power BI.
+Hi there! I'm **Vinay Joshi. I’m a Data Analyst with the working knowledge of SSMS,Python,Advanced Excel and Power BI.
 
